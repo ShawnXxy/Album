@@ -12,7 +12,7 @@ img {
 /* cover */
 
 #cover {
-    background: #222 url("img/nightstars.jpg") center center no-repeat;
+    background: #222 url("../img/nightstars.jpg") center center no-repeat;
 /*    background-image: url("img/nightstars.jpg");*/
     background-size: cover;
     color: white;
@@ -31,7 +31,7 @@ img {
 }
 
 #about {
-    background: url('img/girlincar.jpg') center center no-repeat;
+    background: url('../img/girlincar.jpg') center center no-repeat;
     background-size: cover;
 }
 
